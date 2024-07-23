@@ -18,5 +18,9 @@ Escribeme al correo.
 -Coaching
 
 ## Hobbies
-- Dancing 
-
+- Dancing
+  
+## Languages
+- English
+- Spanish
+- Portuguese
