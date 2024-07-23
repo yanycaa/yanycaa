@@ -7,8 +7,3 @@ Soy esudiante de QA y estamos empezando un nuevo modulo
 ## Contactame 
 
 Escribeme al correo.
-
-## Languages
-- English
-- Spanish
-- Portuguese
