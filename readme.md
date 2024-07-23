@@ -7,3 +7,7 @@ Escribeme al correo.
 ## Skills
 
 -Coaching
+
+## Hobbies
+- Dancing 
+
