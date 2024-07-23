@@ -1,7 +1,6 @@
 # Hello! Soy yany estudiante de QA!!
 
 ## About me
-<<<<<<< HEAD
 
 Soy esudiante de QA y estamos empezando un nuevo modulo
 
@@ -9,14 +8,6 @@ Soy esudiante de QA y estamos empezando un nuevo modulo
 
 Escribeme al correo.
 
-## Languages
-- English
-- Spanish
-- Portuguese
-=======
-Soy estudiante de QA y estamos empezando un nuevo modulo
-## Contactame 
-Escribeme al correo.
 
 ## Technologies
 - HTML
@@ -28,6 +19,9 @@ Escribeme al correo.
 -Coaching
 
 ## Hobbies
-- Dancing 
-
->>>>>>> bfcb91eaaff3df3fad9eb9d695cb803824a1e0fc
+- Dancing
+  
+## Languages
+- English
+- Spanish
+- Portuguese
