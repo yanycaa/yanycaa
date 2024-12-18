@@ -1,26 +1,28 @@
-# Hello! Soy yany estudiante de QA!!
+# Hello! Soy Yanina Ingeniera Quimica y egresada de la carrera de QA
 
-## About me
+## Sobre mi
 
-Soy esudiante de QA y estamos empezando un nuevo modulo
+Soy una persona apasionada por el aprendizaje continuo, con el firme propósito de integrar mi formación en ingeniería química a mi desarrollo en QA, construyendo una carrera que combine lo mejor de ambas áreas para enfrentar los retos del presente y del futuro.
 
 ## Contactame 
 
-Escribeme al correo.
+Correo: yanycaa@gmail.com
+Telefono: 979268476
 
 ## Technologies
 - HTML
 - CSS
 - JS
+- Selenium
+- Appium
+- Java
 
-## Skills
+## Habilidades
 
--Coaching
-
-## Hobbies
-- Dancing
+- Trabajo en equipo
+- Capacidad comunicativa
+- Liderazgo 
   
-## Languages
-- English
-- Spanish
-- Portuguese
+## Idiomas
+- Español
+- Portugues
